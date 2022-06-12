@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hitesh Padhara</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padharhitesh&label=Profile%20views&color=0e75b6&style=flat" alt="padharhitesh" /> </p>
 
-
+ 
 - 🔭 I’m currently working on **personal portfolio website**
 
 - 🌱 I’m currently learning **React , Taiwind**
